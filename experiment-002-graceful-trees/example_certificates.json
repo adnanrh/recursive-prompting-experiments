@@ -1,0 +1,15 @@
+{
+  "description": "Illustrative examples only. NOT original Experiment 002 search results.",
+  "certificates": [
+    {
+      "n": 4,
+      "edges": [[0, 1], [1, 2], [2, 3]],
+      "labels": [0, 3, 1, 2]
+    },
+    {
+      "n": 4,
+      "edges": [[0, 1], [0, 2], [0, 3]],
+      "labels": [0, 1, 2, 3]
+    }
+  ]
+}
