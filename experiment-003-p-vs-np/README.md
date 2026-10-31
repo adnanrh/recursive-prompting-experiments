@@ -1,1 +1,13 @@
+# Experiment 003 — P versus NP | Article artifacts
+
+This archive contains the publication-ready Substack Markdown manuscript, the full technical research report, the reproducibility appendix, and the combined research report.
+
+- `substack_003_publish.md`: final article manuscript for Substack / Codex LaTeX conversion.
+- `technical_report.md`: mathematical research report.
+- `reproducibility_appendix.md`: evidence and verification details.
+- `experiment_003_complete.md`: consolidated research packet.
+
+For executable verification scripts and JSON certificates, use the separate `experiment_003_github.zip` package.
+
+The work does not resolve P versus NP. The stated outcome is Classification C.
 
