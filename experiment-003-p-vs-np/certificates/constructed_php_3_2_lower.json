@@ -1,0 +1,56 @@
+{
+  "certificate": {
+    "support": [
+      0,
+      3,
+      12,
+      48
+    ],
+    "type": "dual"
+  },
+  "cnf": [
+    [
+      1,
+      2
+    ],
+    [
+      3,
+      4
+    ],
+    [
+      5,
+      6
+    ],
+    [
+      -1,
+      -3
+    ],
+    [
+      -1,
+      -5
+    ],
+    [
+      -3,
+      -5
+    ],
+    [
+      -2,
+      -4
+    ],
+    [
+      -2,
+      -6
+    ],
+    [
+      -4,
+      -6
+    ]
+  ],
+  "degree": 3,
+  "holes": 2,
+  "initial_clauses": 9,
+  "method": "sparse dual: constant and complete single-pigeon rows",
+  "pigeons": 3,
+  "refuted": false,
+  "variables": 6
+}
