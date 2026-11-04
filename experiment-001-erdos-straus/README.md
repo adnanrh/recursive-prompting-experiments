@@ -1,3 +1,5 @@
+https://substack.com/@meheruem/note/p-222596480
+
 # Erdős–Straus Conjecture — Recursive Prompting Experiment 001
 
 A reproducible, AI-assisted mathematical investigation into the Erdős–Straus conjecture.
