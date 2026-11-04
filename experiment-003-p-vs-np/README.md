@@ -1,3 +1,5 @@
+https://substack.com/@meheruem/note/p-222881458
+
 # Experiment 003 — P versus NP | Article artifacts
 
 This archive contains the publication-ready Substack Markdown manuscript, the full technical research report, the reproducibility appendix, and the combined research report.
