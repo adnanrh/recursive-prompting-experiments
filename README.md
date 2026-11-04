@@ -1,3 +1,5 @@
+https://open.substack.com/pub/meheruem
+
 # Recursive Prompting Experiments
 
 *A series of AI-led mathematical investigations exploring the capabilities, limitations, and reproducibility of recursive prompting.*
