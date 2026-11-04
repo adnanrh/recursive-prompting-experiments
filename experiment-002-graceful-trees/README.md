@@ -1,3 +1,5 @@
+https://substack.com/@meheruem/note/p-222836394
+
 # Experiment 002 — Graceful Tree Conjecture
 
 *An AI-led mathematical investigation conducted through recursive prompting.*
