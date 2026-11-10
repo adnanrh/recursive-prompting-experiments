@@ -30,7 +30,7 @@ The process does not guarantee mathematical novelty, correctness, or discovery.
 
 Each experiment is maintained in its own directory, containing available verification scripts and supporting computational evidence.
 
-The corresponding Substack article serves as the primary research narrative, while this repository provides supplementary materials for independent examination.
+Each experiment's accompanying publications, where available, provide the research narrative, while this repository preserves the supporting materials for independent examination.
 
 A successful computational check does not establish a universal mathematical theorem. Likewise, failure to discover a counterexample does not constitute proof that none exists.
 
@@ -53,7 +53,3 @@ Instead, they invite a more careful examination of what AI-generated mathematica
 *Research and writing: Meheruem*
 
 *Mathematical investigations conducted with AI assistance. Results and interpretations remain open to independent scrutiny.*
-
-## Experiment 004 — Zagreb Indices
-
-[Experiment 004](experiment-004-zagreb-indices/) contains the Lean-checked sharp 45/46 threshold theorem, research materials, and author-review manuscript. See the [migration and reproduction notes in PR #1](https://github.com/adnanrh/recursive-prompting-experiments/pull/1) for preserved history, validation results, and source-repository citation constraints. Formal verification is distinct from external mathematical peer review.
