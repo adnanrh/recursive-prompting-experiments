@@ -53,3 +53,7 @@ Instead, they invite a more careful examination of what AI-generated mathematica
 *Research and writing: Meheruem*
 
 *Mathematical investigations conducted with AI assistance. Results and interpretations remain open to independent scrutiny.*
+
+## Experiment 004 — Zagreb Indices
+
+[Experiment 004](experiment-004-zagreb-indices/) contains the Lean-checked sharp 45/46 threshold theorem, research materials, and author-review manuscript. See the [migration and reproduction notes in PR #1](https://github.com/adnanrh/recursive-prompting-experiments/pull/1) for preserved history, validation results, and source-repository citation constraints. Formal verification is distinct from external mathematical peer review.
