@@ -1,3 +1,0 @@
-input/research_report.pdf: OK
-input/original_verification.zip: OK
-VERIFICATION_REPORT.pdf: OK
